@@ -1,6 +1,8 @@
 # Slider
 This project uses the following technology stack: HTML, CSS, JS.
 
+---
+
 Img:
 
 ![Screenshot 2023-06-29 at 15-38-05 Слайдер Проект 3](https://github.com/ArtLevel/Slider/assets/124143546/fe1294be-6f9a-4565-a024-a92c5be1aefe)
